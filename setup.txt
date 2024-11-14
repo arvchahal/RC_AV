@@ -4,3 +4,4 @@ make sure to have NGROK installed and have the auth key added from the SLACK cha
 type `ngrok tcp 22` to setup tunnel
 on main PC, have ngrok signed in with auth key
 type `ssh raspberrypi@<url> -p <port>`
+user/pass is raspberrypi
