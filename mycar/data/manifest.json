@@ -2,4 +2,4 @@
 ["image_array", "float", "float"]
 {}
 {"created_at": 1731183756.4735389, "sessions": {"all_full_ids": ["24-11-13_0", "24-11-14_1"], "last_id": 1, "last_full_id": "24-11-14_1"}}
-{"paths": ["catalog_0.catalog"], "current_index": 276, "max_len": 1000, "deleted_indexes": []}
+{"paths": ["catalog_0.catalog", "catalog_1.catalog", "catalog_2.catalog", "catalog_3.catalog", "catalog_4.catalog", "catalog_5.catalog", "catalog_6.catalog"], "current_index": 6208, "max_len": 1000, "deleted_indexes": []}
